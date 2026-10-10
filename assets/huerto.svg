@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title description">
+  <title id="title">Un pequeño huerto</title>
+  <desc id="description">Tres plantas crecen en una jardinera bajo un sol amarillo.</desc>
+  <rect width="640" height="360" fill="#eaf6ff"/>
+  <circle cx="520" cy="82" r="42" fill="#ffd166"/>
+  <path d="M0 255 Q150 220 300 255 T640 245 V360 H0Z" fill="#b7df9b"/>
+  <path d="M145 242h350l-28 82H173z" fill="#b5654d"/>
+  <path d="M158 239h324v20H158z" fill="#8f493d"/>
+  <path d="M320 240V129" stroke="#3f7d4a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M320 186c-62 0-87-36-82-70 47 0 78 20 82 70Z" fill="#63a85c"/>
+  <path d="M322 160c0-48 31-77 77-77 4 39-24 73-77 77Z" fill="#4b9854"/>
+  <path d="M216 241v-57" stroke="#3f7d4a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M216 210c-33 0-47-19-44-39 26 0 42 11 44 39Z" fill="#77b95c"/>
+  <path d="M217 194c0-27 17-43 44-43 2 22-14 41-44 43Z" fill="#5aa453"/>
+  <path d="M427 241v-57" stroke="#3f7d4a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M427 210c-33 0-47-19-44-39 26 0 42 11 44 39Z" fill="#77b95c"/>
+  <path d="M428 194c0-27 17-43 44-43 2 22-14 41-44 43Z" fill="#5aa453"/>
+</svg>
